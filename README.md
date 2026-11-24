@@ -1,3 +1,5 @@
+![Banner de apresentação: Dados, Automação e Desenvolvimento](./Banner%20neon%20roxo%20com%20solu%C3%A7%C3%B5es%20em%20dados.png)
+
 <!--
   README de perfil: jessicaprataborgesadm-spec
   Identidade: roxo, preto e branco | Dados, Automação e Desenvolvimento
