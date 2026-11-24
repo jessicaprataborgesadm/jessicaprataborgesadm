@@ -78,17 +78,17 @@ Projeto de portfólio desenvolvido com dados públicos do e-commerce brasileiro 
 
 **Galeria do projeto**
 
-<div align="center">
-
 **01 · Validação temporal dos modelos**
 
 ![Validação temporal dos modelos](./dash-vendas/01-validacao-temporal.png)
 
-**03 · Consulta conversacional de faturamento**
+A avaliação retrospectiva compara o baseline e o Random Forest em cinco janelas temporais. No resultado agregado, o Random Forest apresentou WAPE de **22,70%**, frente a **25,27%** do baseline.
+
+**02 · Continuação da validação (etapa 01.2): consulta conversacional de faturamento**
 
 ![Consulta conversacional de faturamento](./dash-vendas/03-consulta-faturamento.png)
 
-</div>
+Durante a validação da IA Analista, a configuração inicial `gemini-3.8-flash` retornou `503 UNAVAILABLE` em duas tentativas. Para contornar a indisponibilidade, o modelo foi trocado para `gemini-3.5-flash-lite` pela variável `GEMINI_MODEL`, editando o arquivo local `.streamlit/secrets.toml` pelo Bloco de Notas, sem precisar alterar o código Python. Após a troca, a pergunta **“Qual foi o faturamento de julho de 2018?”** recebeu uma resposta generativa no dashboard. Isso validou uma chamada ponta a ponta com o modelo alternativo; os demais cenários e testes automatizados continuam como etapas pendentes.
 
 **Diferencial: IA Analista com LLM (Google Gemini)**  
 A aplicação permite fazer perguntas em linguagem natural sobre os dados e recebe uma leitura contextual dos resultados, com explicações, pontos-chave e cuidados de interpretação. O LLM atua como camada narrativa: os indicadores, métricas e cálculos continuam sob responsabilidade do motor determinístico em Python, evitando delegar ao modelo a produção dos números.
