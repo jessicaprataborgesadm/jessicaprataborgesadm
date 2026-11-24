@@ -32,6 +32,37 @@ Minha experiência reúne rotinas administrativas e financeiras, análise de ind
 - 🤖 Exploração de IA aplicada a problemas reais
 - 💻 Desenvolvimento de soluções e aplicações
 
+## ✦ Experiência profissional
+
+### Grupo Boticário
+**Estágio Administrativo | Dados, Analytics e Automação**  
+*2025 – atual*
+
+Atuação em iniciativas que conectam dados, indicadores, processos administrativos e soluções digitais para apoiar a operação e a tomada de decisão.
+
+- **Dados & Analytics:** consultas e análises com SQL e BigQuery, organização e consolidação de informações para geração de indicadores.
+- **Business Intelligence:** desenvolvimento e manutenção de dashboards no Looker Studio para acompanhamento de desempenho.
+- **Performance industrial:** participação em iniciativas de análise de OEE, ordens de produção e informações provenientes de sistemas MES.
+- **Automação:** criação de soluções com Google Apps Script para agilizar rotinas e reduzir atividades manuais.
+- **Soluções internas:** desenvolvimento de ferramentas de controle e acompanhamento com Google Sheets e AppSheet.
+- **Rotinas administrativas e financeiras:** utilização de SAP R/3 e S/4HANA no apoio aos processos da área.
+
+### Santander
+**Experiência bancária | Especialista Santander II (GNS2)**  
+*Experiência de aproximadamente 3 anos*
+
+Atuação com atendimento e relacionamento com clientes, atividades comerciais e operacionais, além de organização e acompanhamento de eventos internos e externos.
+
+- Atendimento e relacionamento com clientes, identificação de necessidades, negociação e resolução de demandas.
+- Apoio à experiência do cliente e orientação sobre produtos, serviços e canais de atendimento do banco.
+- Apoio às rotinas operacionais e ao fluxo de atendimento da agência.
+- Organização e acompanhamento de eventos internos e externos, considerando infraestrutura, acessibilidade, segurança, conforto, circulação de pessoas e adequação do espaço aos objetivos.
+- Avaliação de locais e comparação de orçamentos para apoiar a escolha de espaços e o planejamento dos eventos.
+- Articulação com diferentes interlocutores, alinhamento de necessidades e acompanhamento de entregas e prazos.
+- Desenvolvimento de competências em comunicação, negociação, organização, senso de urgência e resolução de problemas.
+
+---
+
 ## ✧ Projetos em destaque
 
 <div align="center">
