@@ -84,17 +84,9 @@ Projeto de portfólio desenvolvido com dados públicos do e-commerce brasileiro 
 
 ![Validação temporal dos modelos](./dash-vendas/01-validacao-temporal.png)
 
-**02 · IA Analista com Gemini**
-
-![IA Analista com Gemini](./dash-vendas/02-ia-analista.png)
-
 **03 · Consulta conversacional de faturamento**
 
 ![Consulta conversacional de faturamento](./dash-vendas/03-consulta-faturamento.png)
-
-**04 · Indicadores e detalhamento da resposta**
-
-![Indicadores e detalhamento da resposta](./dash-vendas/04-detalhamento-faturamento.png)
 
 </div>
 
