@@ -34,24 +34,53 @@ Minha experiência reúne rotinas administrativas e financeiras, análise de ind
 
 ## ✧ Projetos em destaque
 
-### [Projeto Dash Vendas](https://github.com/jessicaprataborgesadm-spec/projeto-dash-vendas)
-**Analytics • BigQuery • SQL • Python • Machine Learning • Streamlit**
+<div align="center">
 
-Projeto de análise de dados de e-commerce com dados públicos da Olist. Inclui camada RAW no BigQuery, consultas SQL, construção de série diária, engenharia de features, comparação entre baseline e Random Forest e validação temporal. O dashboard Streamlit é executado localmente; a integração com Gemini é opcional e ainda depende de validação com chave local.
+### 📊 Projeto Dash Vendas
+**Análise de Dados • Engenharia Analítica • Machine Learning**
 
-### [Dados & Analytics | Performance em Venda Direta](https://github.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta)
-**Python • Pandas • SQL • BigQuery • Streamlit • Plotly**
+[![Abrir repositório](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/projeto-dash-vendas)
 
-Estudo demonstrativo com dados, marcas e valores inteiramente sintéticos. Analisa performance por ciclo, conciliação entre realizado e orçamento, produtividade e mix de produtos, com validações de qualidade e cuidado com granularidade e escopo dos indicadores.
+</div>
 
-[**Abrir dashboard interativo**](https://case-dados-analytics-venda-direta-igqqlepevblogaks2qkdec.streamlit.app/) · [Ver documentação e código](https://github.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta)
+Projeto de portfólio com dados públicos do e-commerce brasileiro da Olist. Inclui camada RAW no BigQuery, consultas SQL, construção de série diária, engenharia de features, comparação entre baseline e Random Forest e validação temporal em cinco janelas históricas.
 
-![Prévia do dashboard de Dados & Analytics](https://raw.githubusercontent.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta/main/assets/screenshots/visao-geral.png)
+**Destaque técnico:** no resultado agregado das cinco janelas, o Random Forest apresentou WAPE de 22,70%, contra 25,27% do baseline. O dashboard Streamlit é executado localmente e não consulta o BigQuery em tempo real.
 
-### [Trade Marketing 3D Analytics](https://github.com/jessicaprataborgesadm-spec/trade-marketing-3d-analytics)
-**Python • Pandas • Streamlit • Three.js • WebGL**
+**Stack:** Python · SQL · BigQuery · Pandas · Scikit-learn · Streamlit
 
-Aplicação interativa que combina Python, Pandas, Streamlit e Three.js/WebGL para simular cenários A/B no varejo e explorar efeitos de descontos e variações climáticas sobre o lucro incremental.
+---
+
+<div align="center">
+
+### 📈 Dados & Analytics | Performance em Venda Direta
+**Business Intelligence • Qualidade de Dados • Indicadores**
+
+![Visão geral do dashboard de Venda Direta](https://raw.githubusercontent.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta/main/assets/screenshots/visao-geral.png)
+
+[![Abrir dashboard](https://img.shields.io/badge/ABRIR%20DASHBOARD-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://case-dados-analytics-venda-direta-igqqlepevblogaks2qkdec.streamlit.app/)
+[![Ver código](https://img.shields.io/badge/VER%20REPOSITÓRIO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta)
+
+</div>
+
+Estudo demonstrativo com dados, marcas e valores sintéticos. Analisa performance por ciclo, conciliação entre realizado e orçamento, produtividade e mix de produtos, com validações de qualidade e atenção à granularidade dos indicadores.
+
+**Stack:** Python · Pandas · SQL · BigQuery · Streamlit · Plotly
+
+---
+
+<div align="center">
+
+### 🧊 Trade Marketing 3D Analytics
+**Simulação de Cenários • Visualização 3D • Estratégia de Varejo**
+
+[![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/trade-marketing-3d-analytics)
+
+</div>
+
+Aplicação interativa que combina análise de dados e renderização 3D para simular cenários A/B no varejo, explorando impactos de descontos e variações climáticas sobre o lucro incremental.
+
+**Stack:** Python · Pandas · Streamlit · Three.js · WebGL
 
 ## ✧ Projetos em desenvolvimento
 
