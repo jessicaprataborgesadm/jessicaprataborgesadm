@@ -35,17 +35,19 @@ Minha experiência reúne rotinas administrativas e financeiras, análise de ind
 ## ✦ Experiência profissional
 
 ### Grupo Boticário
-**Estágio Administrativo | Dados, Analytics e Automação**  
+**Estágio Administrativo | Performance Industrial, Dados e Automação**  
 *2025 – atual*
 
-Atuação em iniciativas que conectam dados, indicadores, processos administrativos e soluções digitais para apoiar a operação e a tomada de decisão.
+Atuação em Performance Industrial e Excelência Operacional, conectando análise de dados, indicadores fabris, automação e desenvolvimento de soluções para apoiar a operação e a tomada de decisão.
 
-- **Dados & Analytics:** consultas e análises com SQL e BigQuery, organização e consolidação de informações para geração de indicadores.
-- **Business Intelligence:** desenvolvimento e manutenção de dashboards no Looker Studio para acompanhamento de desempenho.
-- **Performance industrial:** participação em iniciativas de análise de OEE, ordens de produção e informações provenientes de sistemas MES.
-- **Automação:** criação de soluções com Google Apps Script para agilizar rotinas e reduzir atividades manuais.
-- **Soluções internas:** desenvolvimento de ferramentas de controle e acompanhamento com Google Sheets e AppSheet.
-- **Rotinas administrativas e financeiras:** utilização de SAP R/3 e S/4HANA no apoio aos processos da área.
+- **Engenharia e análise de dados:** consultas, exploração e tratamento de bases utilizando SQL e Google BigQuery.
+- **Análise de ordens de produção:** triagem de ordens fabris com SQL, Python e JavaScript, identificando antecipadamente informações ausentes ou inconsistências antes do fechamento.
+- **Indicadores industriais:** acompanhamento e análise de KPIs, OEE, ordens de produção e dados provenientes de sistemas MES, identificando desvios, padrões e oportunidades de melhoria em apoio à Engenharia.
+- **Business Intelligence:** desenvolvimento de dashboards gerenciais no Looker Studio para acompanhamento de indicadores e desempenho operacional.
+- **Automação e integração:** criação de soluções com Google Apps Script, JavaScript e HTML para integrar, tratar e atualizar informações, reduzindo etapas manuais.
+- **Soluções para processos internos:** desenvolvimento de ferramentas com Google Sheets e AppSheet para controles e acompanhamento de informações.
+- **IA aplicada:** exploração de agentes e Gems no Gemini para apoiar análises, automações, construção de dashboards e desenvolvimento de código.
+- **Sistemas corporativos:** utilização de SAP R/3 e S/4HANA em rotinas administrativas e financeiras.
 
 ### Santander
 **Experiência bancária | Especialista Santander II (GNS2)**  
