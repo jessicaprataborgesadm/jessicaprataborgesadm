@@ -1,7 +1,7 @@
 ![Banner de apresentação: Dados, Automação e Desenvolvimento](./Banner%20neon%20roxo%20com%20solu%C3%A7%C3%B5es%20em%20dados.png)
 
 <!--
-  README de perfil: jessicaprataborgesadm-spec
+  README de perfil: jessicaprataborgesadm
   Identidade: roxo, preto e branco | Dados, Automação e Desenvolvimento
 -->
 
@@ -14,7 +14,7 @@
 **Transformo dados e processos em soluções práticas para apoiar decisões e simplificar rotinas.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-borges-5a5a01331/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm)
 
 </div>
 
@@ -72,7 +72,7 @@ Atuação com atendimento e relacionamento com clientes, atividades comerciais e
 ### 🤖 Dash Vendas | Forecasting & IA Analista
 **Data Analytics • Machine Learning • LLM • Inteligência Comercial**
 
-[![Abrir repositório](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/projeto-dash-vendas)
+[![Abrir repositório](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm/projeto-dash-vendas)
 
 Projeto de portfólio desenvolvido com dados públicos do e-commerce brasileiro da Olist. Integra análise de faturamento, engenharia de dados, comparação de modelos preditivos e uma camada conversacional de IA generativa para apoiar a interpretação dos resultados.
 
@@ -92,10 +92,10 @@ A aplicação permite fazer perguntas em linguagem natural sobre os dados e rece
 ### 📈 Dados & Analytics | Performance em Venda Direta
 **Business Intelligence • Qualidade de Dados • Indicadores**
 
-![Visão geral do dashboard de Venda Direta](https://raw.githubusercontent.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta/main/assets/screenshots/visao-geral.png)
+![Visão geral do dashboard de Venda Direta](https://raw.githubusercontent.com/jessicaprataborgesadm/case-dados-analytics-venda-direta/main/assets/screenshots/visao-geral.png)
 
 [![Abrir dashboard](https://img.shields.io/badge/ABRIR%20DASHBOARD-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white)](https://case-dados-analytics-venda-direta-igqqlepevblogaks2qkdec.streamlit.app/)
-[![Ver código](https://img.shields.io/badge/VER%20REPOSITÓRIO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/case-dados-analytics-venda-direta)
+[![Ver código](https://img.shields.io/badge/VER%20REPOSITÓRIO-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm/case-dados-analytics-venda-direta)
 
 </div>
 
@@ -110,7 +110,7 @@ Estudo demonstrativo com dados, marcas e valores sintéticos. Analisa performanc
 ### 🧊 Trade Marketing 3D Analytics
 **Simulação de Cenários • Visualização 3D • Estratégia de Varejo**
 
-[![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/trade-marketing-3d-analytics)
+[![Ver projeto](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm/trade-marketing-3d-analytics)
 
 </div>
 
