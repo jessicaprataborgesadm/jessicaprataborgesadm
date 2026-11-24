@@ -13,7 +13,7 @@
 
 **Transformo dados e processos em soluções práticas para apoiar decisões e simplificar rotinas.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adicionar%20link-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%A9ssica-borges-5a5a01331/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositórios-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec)
 
 </div>
