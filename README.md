@@ -76,6 +76,28 @@ Atuação com atendimento e relacionamento com clientes, atividades comerciais e
 
 Projeto de portfólio desenvolvido com dados públicos do e-commerce brasileiro da Olist. Integra análise de faturamento, engenharia de dados, comparação de modelos preditivos e uma camada conversacional de IA generativa para apoiar a interpretação dos resultados.
 
+**Galeria do projeto**
+
+<div align="center">
+
+**01 · Validação temporal dos modelos**
+
+![Validação temporal dos modelos](./dash-vendas/01-validacao-temporal.png)
+
+**02 · IA Analista com Gemini**
+
+![IA Analista com Gemini](./dash-vendas/02-ia-analista.png)
+
+**03 · Consulta conversacional de faturamento**
+
+![Consulta conversacional de faturamento](./dash-vendas/03-consulta-faturamento.png)
+
+**04 · Indicadores e detalhamento da resposta**
+
+![Indicadores e detalhamento da resposta](./dash-vendas/04-detalhamento-faturamento.png)
+
+</div>
+
 **Diferencial: IA Analista com LLM (Google Gemini)**  
 A aplicação permite fazer perguntas em linguagem natural sobre os dados e recebe uma leitura contextual dos resultados, com explicações, pontos-chave e cuidados de interpretação. O LLM atua como camada narrativa: os indicadores, métricas e cálculos continuam sob responsabilidade do motor determinístico em Python, evitando delegar ao modelo a produção dos números.
 
