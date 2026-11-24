@@ -69,18 +69,21 @@ Atuação com atendimento e relacionamento com clientes, atividades comerciais e
 
 <div align="center">
 
-### 📊 Projeto Dash Vendas
-**Análise de Dados • Engenharia Analítica • Machine Learning**
+### 🤖 Dash Vendas | Forecasting & IA Analista
+**Data Analytics • Machine Learning • LLM • Inteligência Comercial**
 
 [![Abrir repositório](https://img.shields.io/badge/VER%20PROJETO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessicaprataborgesadm-spec/projeto-dash-vendas)
 
-</div>
+Projeto de portfólio desenvolvido com dados públicos do e-commerce brasileiro da Olist. Integra análise de faturamento, engenharia de dados, comparação de modelos preditivos e uma camada conversacional de IA generativa para apoiar a interpretação dos resultados.
 
-Projeto de portfólio com dados públicos do e-commerce brasileiro da Olist. Inclui camada RAW no BigQuery, consultas SQL, construção de série diária, engenharia de features, comparação entre baseline e Random Forest e validação temporal em cinco janelas históricas.
+**Diferencial: IA Analista com LLM (Google Gemini)**  
+A aplicação permite fazer perguntas em linguagem natural sobre os dados e recebe uma leitura contextual dos resultados, com explicações, pontos-chave e cuidados de interpretação. O LLM atua como camada narrativa: os indicadores, métricas e cálculos continuam sob responsabilidade do motor determinístico em Python, evitando delegar ao modelo a produção dos números.
+
+**Fundação analítica e preditiva:** camada RAW no BigQuery, consultas SQL, construção de série diária, engenharia de features, comparação entre baseline e Random Forest e validação temporal em cinco janelas históricas.
 
 **Destaque técnico:** no resultado agregado das cinco janelas, o Random Forest apresentou WAPE de 22,70%, contra 25,27% do baseline. O dashboard Streamlit é executado localmente e não consulta o BigQuery em tempo real.
 
-**Stack:** Python · SQL · BigQuery · Pandas · Scikit-learn · Streamlit
+**Stack:** Python · SQL · BigQuery · Pandas · Scikit-learn · Streamlit · Google Gemini API · LLM (IA generativa)
 
 ---
 
