@@ -45,7 +45,7 @@ Atuação em Performance Industrial e Excelência Operacional, conectando análi
 - **Indicadores industriais:** acompanhamento e análise de KPIs, OEE, ordens de produção e dados provenientes de sistemas MES, identificando desvios, padrões e oportunidades de melhoria em apoio à Engenharia.
 - **Business Intelligence:** desenvolvimento de dashboards gerenciais no Looker Studio para acompanhamento de indicadores e desempenho operacional.
 - **Automação e integração:** criação de soluções com Google Apps Script, JavaScript e HTML para integrar, tratar e atualizar informações, reduzindo etapas manuais.
-- **Soluções para processos internos:** desenvolvimento de ferramentas com Google Sheets e AppSheet para controles e acompanhamento de informações.
+- **Soluções para processos internos:** desenvolvimento de ferramentas com Google Sheets e App Script para controles e acompanhamento de informações.
 - **IA aplicada:** exploração de agentes e Gems no Gemini para apoiar análises, automações, construção de dashboards e desenvolvimento de código.
 - **Sistemas corporativos:** utilização de SAP R/3 e S/4HANA em rotinas administrativas e financeiras.
 
