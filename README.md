@@ -50,18 +50,34 @@ Atuação em Performance Industrial e Excelência Operacional, conectando análi
 - **Sistemas corporativos:** utilização de SAP R/3 e S/4HANA em rotinas administrativas e financeiras.
 
 ### Santander
+
 **Experiência bancária | Especialista Santander II (GNS2)**  
-*Experiência de 2 anos*
+*Abr. de 2023 – dez. de 2023 · 9 meses*
 
-Atuação com atendimento e relacionamento com clientes, atividades comerciais e operacionais, além de organização e acompanhamento de eventos internos e externos.
+Gestão de carteira de clientes Pessoa Física e MEI, com foco em relacionamento, retenção e satisfação do cliente.
 
-- Atendimento e relacionamento com clientes, identificação de necessidades, negociação e resolução de demandas.
-- Apoio à experiência do cliente e orientação sobre produtos, serviços e canais de atendimento do banco.
-- Apoio às rotinas operacionais e ao fluxo de atendimento da agência.
-- Organização e acompanhamento de eventos internos e externos, considerando infraestrutura, acessibilidade, segurança, conforto, circulação de pessoas e adequação do espaço aos objetivos.
-- Avaliação de locais e comparação de orçamentos para apoiar a escolha de espaços e o planejamento dos eventos.
-- Articulação com diferentes interlocutores, alinhamento de necessidades e acompanhamento de entregas e prazos.
-- Desenvolvimento de competências em comunicação, negociação, organização, senso de urgência e resolução de problemas.
+- Fechamento de operações de crédito, consultoria de investimentos e análise de risco.
+- Atuação em renegociação e recuperação de crédito.
+- Suporte à gerência na análise de indicadores, metas e resultados.
+- Atendimento e resolução de reclamações oficiais (SAC, Ouvidoria e BACEN).
+- Execução de rotinas administrativas, financeiras e contábeis.
+- Apoio em auditorias internas e organização de processos operacionais.
+
+**Competências:** Atendimento ao cliente · Operações de Crédito
+
+### Santander
+
+**Estagiária corporativa**  
+*Fev. de 2022 – abr. de 2023 · 1 ano e 3 meses*
+
+Apoio administrativo às operações para empresas de grande porte, com atuação em organização documental, atualização de cadastros, revisão de arquivos e controle de processos internos.
+
+- Suporte ao gestor em rotinas de gestão financeira e acompanhamento de demandas e fluxos administrativos.
+- Acompanhamento de KPIs.
+- Construção de dashboards para auxiliar as análises do time de vendas.
+- Atuação voltada à eficiência operacional e à organização interna.
+
+**Competências:** Universidade corporativa · Finanças
 
 ---
 
