@@ -63,7 +63,7 @@ Gestão de carteira de clientes Pessoa Física e MEI, com foco em relacionamento
 - Execução de rotinas administrativas, financeiras e contábeis.
 - Apoio em auditorias internas e organização de processos operacionais.
 
-**Competências:** Atendimento ao cliente · Operações de Crédito
+**Competências:** Atendimento ao cliente · Operações de Crédito · Gestão de Carteira · Análise de risco · Processos administrativos · Tesouraria
 
 **Estagiária corporativa**  
 *Fev. de 2022 – abr. de 2023 · 1 ano e 3 meses*
@@ -71,11 +71,14 @@ Gestão de carteira de clientes Pessoa Física e MEI, com foco em relacionamento
 Apoio administrativo às operações para empresas de grande porte, com atuação em organização documental, atualização de cadastros, revisão de arquivos e controle de processos internos.
 
 - Suporte ao gestor em rotinas de gestão financeira e acompanhamento de demandas e fluxos administrativos.
-- Acompanhamento de KPIs.
-- Construção de dashboards para auxiliar as análises do time de vendas.
+- Acompanhamento de KPIs e indicadores-chave de desempenho.
+- Construção de dashboards em Microsoft Power BI para auxiliar as análises do time de vendas.
+- Organização e acompanhamento de eventos internos e externos, considerando infraestrutura, acessibilidade, segurança, conforto, circulação de pessoas e adequação do espaço aos objetivos.
+- Avaliação de locais e comparação de orçamentos para apoiar a escolha de espaços e o planejamento dos eventos.
+- Articulação com diferentes interlocutores, alinhamento de necessidades e acompanhamento de entregas e prazos.
 - Atuação voltada à eficiência operacional e à organização interna.
 
-**Competências:** Universidade corporativa · Finanças
+**Competências:** Universidade corporativa · Finanças · Suporte administrativo · Controles Internos · Indicadores-chave de desempenho · Métricas de dashboard · Microsoft Power BI
 
 ---
 
