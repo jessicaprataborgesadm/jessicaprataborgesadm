@@ -49,6 +49,12 @@ Atuação em Performance Industrial e Excelência Operacional, conectando análi
 - **IA aplicada:** exploração de agentes e Gems no Gemini para apoiar análises, automações, construção de dashboards e desenvolvimento de código.
 - **Sistemas corporativos:** utilização de SAP R/3 e S/4HANA em rotinas administrativas e financeiras.
 
+- **Acompanhamento orçamentário e automação:** desenvolvimento de solução com AppSheet e automações em Google Apps Script para digitalizar controles, reduzir atividades manuais e apoiar o acompanhamento orçamentário.
+- **Melhoria contínua e 5S:** participação na implementação do 5S na sala de setup, com organização e mapeamento de equipamentos, além da identificação de oportunidades de melhoria nos controles e processos.
+- **Gestão de prestadores de serviços:** interface com prestadores durante o lançamento de notas fiscais, atuando como área cliente para alinhamento de informações e acompanhamento de pendências.
+
+**Competências:** SQL · Gestão de incidentes · Habilidades analíticas · SAP ERP · SAP · Google Sheets · Looker Studio · Análise de dados · Processos administrativos · Melhoria contínua · Google Workspace · Google Cloud Platform (GCP) · Análise de dados estatísticos · Manutenção de dados · Análise exploratória de dados
+
 ### Santander
 
 **Experiência bancária | Especialista Santander II (GNS2)**  
