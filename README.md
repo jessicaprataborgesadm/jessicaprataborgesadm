@@ -65,8 +65,6 @@ Gestão de carteira de clientes Pessoa Física e MEI, com foco em relacionamento
 
 **Competências:** Atendimento ao cliente · Operações de Crédito
 
-### Santander
-
 **Estagiária corporativa**  
 *Fev. de 2022 – abr. de 2023 · 1 ano e 3 meses*
 
