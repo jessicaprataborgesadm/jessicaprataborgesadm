@@ -51,7 +51,7 @@ Atuação em Performance Industrial e Excelência Operacional, conectando análi
 
 ### Santander
 **Experiência bancária | Especialista Santander II (GNS2)**  
-*Experiência de aproximadamente 3 anos*
+*Experiência de 2 anos*
 
 Atuação com atendimento e relacionamento com clientes, atividades comerciais e operacionais, além de organização e acompanhamento de eventos internos e externos.
 
